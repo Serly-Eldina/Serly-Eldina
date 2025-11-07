@@ -127,8 +127,8 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 <tr>
 <td align="center">
 
-**Java Game Engine Basics**  
-<sub>Educational Java interactive engine</sub><br/>
+**Java Game Engine **  
+<sub>Game Engine </sub><br/>
 <code>Java</code>
 
 </td>
