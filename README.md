@@ -85,42 +85,24 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F6A5D8&center=true&vCenter=true&width=600&lines=My+Featured+Projects+🌸;AI+%2F+Web+%2F+Design+%26+More+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F6A5D8&center=true&vCenter=true&width=650&lines=My+Featured+Projects+🌸;AI+%2F+Web+%2F+Design+%26+More+✨" />
 
 <br/>
 
-<!-- Project Cards (Aesthetic Pastel) -->
 <table>
 <tr>
-<td align="center" width="300">
-  
-🎀 **Tourist Arrival Forecasting**  
-<sub>RNN + MLR model for tourism prediction</sub>  
-`Python · TensorFlow · Scikit-learn`
+<td width="300" align="center">
+
+**Tourist Arrival Forecasting**  
+<sub>RNN + MLR model for tourism prediction</sub><br/>
+<code>Python · TensorFlow · Scikit-learn</code>
 
 </td>
-<td align="center" width="300">
+<td width="300" align="center">
 
-💗 **SIREKAP Sentiment Analysis**  
-<sub>LSTM for Indonesian user review sentiment</sub>  
-`Python · NLP · LSTM`
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-🌿 **FLORIA Plant Monitoring**  
-<sub>Sensor data + Web & Mobile monitoring</sub>  
-`React · Node.js · Firebase`
-
-</td>
-<td align="center">
-
-🍿 **Cartoon Movie World Website**  
-<sub>Animated UI for browsing cartoon movies</sub>  
-`HTML · CSS · JavaScript`
+**SIREKAP Sentiment Analysis**  
+<sub>LSTM for Indonesian user review sentiment</sub><br/>
+<code>Python · NLP · LSTM</code>
 
 </td>
 </tr>
@@ -128,16 +110,16 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 <tr>
 <td align="center">
 
-🤖 **Droid Algoritma (Edu Game)**  
-<sub>Puzzle-based logic learning game</sub>  
-`JavaScript · Game Engine`
+**FLORIA Plant Monitoring**  
+<sub>Sensor data + Web & Mobile monitoring</sub><br/>
+<code>React · Node.js · Firebase</code>
 
 </td>
 <td align="center">
 
-🕹️ **Java Game Engine Basics**  
-<sub>Educational Java interactive engine</sub>  
-`Java`
+**Cartoon Movie World Website**  
+<sub>Animated UI for browsing cartoon movies</sub><br/>
+<code>HTML · CSS · JavaScript</code>
 
 </td>
 </tr>
@@ -145,16 +127,16 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 <tr>
 <td align="center">
 
-🏡 **3D Coastal House Modeling**  
-<sub>Architectural visualization render</sub>  
-`3ds Max · Rendering`
+**Java Game Engine Basics**  
+<sub>Educational Java interactive engine</sub><br/>
+<code>Java</code>
 
 </td>
 <td align="center">
 
-🏨 **Roshelle Hotel Website**  
-<sub>Hotel showcase + booking UI</sub>  
-`HTML · CSS · JavaScript`
+**3D Coastal House Modeling**  
+<sub>Architectural visualization render</sub><br/>
+<code>3ds Max · Rendering</code>
 
 </td>
 </tr>
@@ -162,16 +144,16 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 <tr>
 <td align="center">
 
-🌴 **Gelora Resort Website**  
-<sub>Tourism promotion + reservation site</sub>  
-`HTML · CSS · JavaScript`
+**Roshelle Hotel Website**  
+<sub>Hotel showcase + booking UI</sub><br/>
+<code>HTML · CSS · JavaScript</code>
 
 </td>
 <td align="center">
 
-🎨 **UMKM Branding & Packaging**  
-<sub>BSNP-certified product design</sub>  
-`Figma · Canva · UI/UX`
+**Gelora Resort Website**  
+<sub>Tourism promotion + reservation site</sub><br/>
+<code>HTML · CSS · JavaScript</code>
 
 </td>
 </tr>
@@ -179,38 +161,39 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 <tr>
 <td align="center">
 
-📊 **FLORIA Analytics Dashboard**  
-<sub>Data visualization for plant sensors</sub>  
-`React · Bootstrap`
+**UMKM Branding & Packaging**  
+<sub>BSNP-certified product design</sub><br/>
+<code>Figma · Canva · UI/UX</code>
 
 </td>
 <td align="center">
 
-🧸 **Early Childhood Learning App**  
-<sub>Gamified learning for kids</sub>  
-`Flutter · Dart`
+**FLORIA Analytics Dashboard**  
+<sub>Data visualization for plant sensors</sub><br/>
+<code>React · Bootstrap</code>
 
 </td>
 </tr>
 
 <tr>
-<td align="center" colspan="2">
+<td align="center">
 
-📚 **PAA Algorithm Design Project**  
-<sub>Algorithm complexity & optimization</sub>  
-`Python`
+**Early Childhood Learning App**  
+<sub>Gamified learning for kids</sub><br/>
+<code>Flutter · Dart</code>
+
+</td>
+<td align="center">
+
+**PAA Algorithm Design Project**  
+<sub>Algorithm complexity & optimization</sub><br/>
+<code>Python</code>
 
 </td>
 </tr>
-
 </table>
 
-<br/>
-
-
-
-</div>
-
+</tr>
 
 ---
 ## 🌐 Connect With Me
