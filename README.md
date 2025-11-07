@@ -225,11 +225,11 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
   <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://scholar.google.com" target="_blank">
+<a href="[https://scholar.google.com](https://scholar.google.com/citations?user=-KKcpHoAAAAJ&hl=id)" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="45px"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://www.researchgate.net" target="_blank">
+<a href="[https://www.researchgate.net](https://scholar.google.com/citations?user=-KKcpHoAAAAJ&hl=id)" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="45px"/>
 </a>&nbsp;&nbsp;
 
