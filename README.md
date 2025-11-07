@@ -77,9 +77,8 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 * 🌐 Infinite Learning Certified Web Development
 * 🤖 IBM Certified AI & Python Essentials
 * 🎤 Public Speaking (Topic : UI/UX Design) — Developer Festival, Infinite Learning Indonesia ·+-~900 participants
-* 🎭 Community Contribution in Arts & Education ~7 years teaching cultural dance & drama to elementary students 
-* 🌱 Currently exploring **Deep Learning** and **Natural Language Processing (NLP)**
-* 💡 Passionate about **AI Sentiment Analysis** and **User Behavior Understanding**
+* 🎭 Social Contribution in Arts & Education ~7 years teaching cultural dance & drama to elementary students 
+* 🌱 Currently exploring **Artificial Intelligent** and **Natural Language Processing (NLP)**
 * 🧠 Love building projects that combine **data + creativity**
 
 ---
