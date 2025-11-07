@@ -237,7 +237,7 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
   <img src="https://skillicons.dev/icons?i=github" width="45px"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://figma.com" target="_blank">
+<a href="[https://figma.com](https://www.figma.com/@serlyeldina)" target="_blank">
   <img src="https://skillicons.dev/icons?i=figma" width="45px"/>
 </a>
 
