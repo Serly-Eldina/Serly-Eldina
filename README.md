@@ -8,7 +8,7 @@
 
 # 💗 Serly Eldina
 
-Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, Data Science, and Web Development. Here, you can explore my projects, research work, and experiments.
+Welcome to my GitHub profile! I'm passionate about UI/UX Designer, Artificial Inteligent, Natural Language Processing, and Web Development. Here, you can explore my projects, research work, and experiments.
 
 ## 🌸 GitHub Stats & Activity
 
@@ -41,8 +41,6 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 
 
 <br/>
-
-## 🔧 Tech Stack
 
 <div align="center">
 
