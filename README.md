@@ -40,6 +40,61 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 
 <br/>
 
+## 🔧 Tech Stack
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FF8FB7&center=true&vCenter=true&width=500&lines=My+Lovely+Tech+Stack+%F0%9F%92%9C" />
+
+<br/>
+
+<table>
+<tr>
+<!-- Box 1 -->
+<td align="center" width="300">
+  
+🎀 **Languages**  
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,java,php,html,css&theme=light" height="45" />
+
+</td>
+
+<!-- Box 2 -->
+<td align="center" width="300">
+
+🌸 **Frameworks & Tools**  
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,dart,firebase,tensorflow&theme=light" height="45" />
+
+</td>
+</tr>
+
+<tr>
+<!-- Box 3 -->
+<td align="center" width="300">
+
+💗 **Machine Learning & Data**  
+<br/>
+<img src="https://img.shields.io/badge/Pandas-FFB6D9?style=for-the-badge&logo=pandas&logoColor=black" />
+<img src="https://img.shields.io/badge/Matplotlib-F8D7F4?style=for-the-badge&logo=plotly&logoColor=black" />
+
+</td>
+
+<!-- Box 4 -->
+<td align="center" width="300">
+
+🎨 **Design & Creative**  
+<br/>
+<img src="https://skillicons.dev/icons?i=figma&theme=light" height="45"/>
+<img src="https://img.shields.io/badge/Canva-FF8FB7?style=for-the-badge&logo=canva&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 <div align="center">
 
 <!-- Profile Visitor Counter (Soft Pink) -->
