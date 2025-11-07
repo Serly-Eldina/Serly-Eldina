@@ -33,10 +33,12 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 
 <br/>
 
-### 🐍 Pink Contribution Snake
 <div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FF8FB7&center=true&vCenter=true&width=500&lines=My+Lovely+Contribution%F0%9F%92%9C" />
+
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%" />
 </div>
+
 
 <br/>
 
