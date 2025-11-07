@@ -10,78 +10,75 @@
 
 Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, Data Science, and Web Development. Here, you can explore my projects, research work, and experiments.
 
----
-
 ## 🌸 GitHub Stats & Activity
 
 <div align="center">
 
-![Serly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Serly-Eldina\&show_icons=true\&theme=rose_pine)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serly-Eldina\&layout=compact\&theme=rose_pine)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Serly-Eldina\&theme=rose_pine)
+<!-- 3 Stats in one row (compact, no border, aesthetic) -->
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=Serly-Eldina&show_icons=true&theme=rose_pine&hide_border=true" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serly-Eldina&layout=compact&theme=rose_pine&hide_border=true" />
 
 </div>
-
----
-
-### 🐍 Contribution 
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-</div>
-
-## 🔧 Tech Stack
-
-<div align="center">
-
-<!-- Animated Title -->
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F6A5D8&center=true&vCenter=true&width=500&lines=My+Lovely+Tech+Stack+%F0%9F%92%9C;Tools+I+Use+Everyday+%F0%9F%8C%9A" />
 
 <br/>
 
-### **Languages**
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css,php&theme=light" height="55"/>
+<br/>
 
-<br/><br/>
+<div align="center">
 
-### **Tools & Frameworks**
-<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,dart,firebase,tensorflow&theme=light" height="55"/>
+<!-- Pink Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Serly-Eldina&theme=tokyo-night-pink&hide_border=true&area=true" width="90%"/>
 
-<br/><br/>
+</div>
 
-### **Machine Learning & Data**
-<img src="https://img.shields.io/badge/Pandas-%23FFE4F7?style=for-the-badge&logo=pandas&logoColor=black" />
-<img src="https://img.shields.io/badge/Matplotlib-%23DDF7FF?style=for-the-badge&logo=plotly&logoColor=black" />
+<br/>
 
-<br/><br/>
+### 🐍 Pink Contribution Snake
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%"/>
+</div>
 
-### **Design & Creative Tools**
-<img src="https://skillicons.dev/icons?i=figma&theme=light" height="55"/>
-<img src="https://img.shields.io/badge/Canva-%23FFCCE5?style=for-the-badge&logo=canva&logoColor=white" />
+<br/>
 
-<br/><br/>
+<div align="center">
 
+<!-- Profile Visitor Counter (Soft Pink) -->
+<img src="https://komarev.com/ghpvc/?username=Serly-Eldina&label=♡+Profile+Visitors+♡&color=FFB7DD&style=flat-square" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=FF8FB7&center=true&vCenter=true&width=500&lines=About+Me+🌸;Get+to+Know+Me+Better+%F0%9F%92%9C" />
+
+</div>
+
+<div align="center">
+  
+<table style="border: 2px solid #FFB7DD; border-radius: 12px; padding: 0;">
+<tr>
+<td width="600" align="left" style="background:#FFE6F2; border-radius:12px; padding:18px;">
+
+• 🎨 <b>UI/UX Design Enthusiast</b>  
+• 🏅 <b>Certified BSNP National Product Design</b>  
+• 🌐 <b>Infinite Learning Certified Web Development</b>  
+• 🤖 <b>IBM Certified AI & Python Essentials</b>  
+• 🎤 <b>Speaker UI/UX at Developer Festival</b> — ± 900 participants  
+• 🎭 <b>7+ yrs</b> teaching cultural dance & drama to children  
+• 🌱 Learning <b>Artificial Intelligence</b> & <b>NLP</b>  
+• 🧠 Love building things that blend <b>data + creativity</b>  
+
+</td>
+</tr>
+</table>
 
 </div>
 
 
 ---
-## 🚀 About Me
 
-* 🎨 UI/UX Design Enthusiast
-* 🏅 Certified BSNP National Product Design
-* 🌐 Infinite Learning Certified Web Development
-* 🤖 IBM Certified AI & Python Essentials
-* 🎤 Public Speaking : Speaker on Topic User Interface & User Experience :Developer Festival, Infinite Learning Indonesia +-~900 participants
-* 🎭 Social Contribution in Arts & Education ~7 years teaching cultural dance & drama to elementary students 
-* 🌱 Currently exploring **Artificial Intelligent** and **Natural Language Processing (NLP)**
-* 🧠 Love building projects that combine **data + creativity**
-
----
 <div align="center">
 
 <!-- Animated Header -->
@@ -94,7 +91,7 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 <td width="300" align="center">
 
 **Tourist Arrival Forecasting**  
-<sub>RNN + MLR model for tourism prediction</sub><br/>
+<sub> Data Science Project RNN + MLR model for tourism prediction</sub><br/>
 <code>Python · TensorFlow · Scikit-learn</code>
 
 </td>
@@ -185,8 +182,8 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 </td>
 <td align="center">
 
-**PAA Algorithm Design Project**  
-<sub>Algorithm complexity & optimization</sub><br/>
+**PAA game Droid**  
+<sub>Red and Green Droid Game using Algorithmic Problem Solving </sub><br/>
 <code>Python</code>
 
 </td>
@@ -196,8 +193,6 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 </tr>
 
 ---
-## 🌐 Connect With Me
-<div align="center">
 
 <!-- Animated title -->
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FF8FB7&center=true&vCenter=true&width=500&lines=Let's+Connect+%F0%9F%8C%B8;Reach+Out+Anytime+%F0%9F%92%9C" />
