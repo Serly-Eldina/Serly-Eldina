@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 • 🌐 <b>Infinite Learning Certified Web Development</b>  
 • 🤖 <b>IBM Certified AI & Python Essentials</b>  
 • 🎤 <b>Speaker UI/UX at Developer Festival</b> — ± 900 participants  
-• 🎭 <b>7+ yrs</b> teaching cultural dance & drama to children  
+• 🎭 <b>-+7 years</b> teaching cultural dance to students elementary school  
 • 🌱 Learning <b>Artificial Intelligence</b> & <b>NLP</b>  
 • 🧠 Love building things that blend <b>data + creativity</b>  
 
