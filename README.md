@@ -76,7 +76,7 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 * 🏅 Certified BSNP National Product Design
 * 🌐 Infinite Learning Certified Web Development
 * 🤖 IBM Certified AI & Python Essentials
-* 🎤 Public Speaking (Topic : UI/UX Design) — Developer Festival, Infinite Learning Indonesia ·+-~900 participants
+* 🎤 Public Speaking : Speaker on Topic User Interface & User Experience (UI/UX Design)— Developer Festival, Infinite Learning Indonesia ·+-~900 participants
 * 🎭 Social Contribution in Arts & Education ~7 years teaching cultural dance & drama to elementary students 
 * 🌱 Currently exploring **Artificial Intelligent** and **Natural Language Processing (NLP)**
 * 🧠 Love building projects that combine **data + creativity**
