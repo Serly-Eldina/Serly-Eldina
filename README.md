@@ -111,14 +111,14 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 <td align="center">
 
 **FLORIA Plant Monitoring**  
-<sub>Sensor data + Web & Mobile monitoring</sub><br/>
+<sub>Web monitoring</sub><br/>
 <code>React · Node.js · Firebase</code>
 
 </td>
 <td align="center">
 
 **Cartoon Movie World Website**  
-<sub>Animated UI for browsing cartoon movies</sub><br/>
+<sub> Browsing cartoon movies</sub><br/>
 <code>HTML · CSS · JavaScript</code>
 
 </td>
@@ -145,7 +145,7 @@ Welcome to my GitHub profile! I'm passionate about Artificial Inteligent, NLP, D
 <td align="center">
 
 **Roshelle Hotel Website**  
-<sub>Hotel showcase + booking UI</sub><br/>
+<sub>Hotel showcase + booking </sub><br/>
 <code>HTML · CSS · JavaScript</code>
 
 </td>
