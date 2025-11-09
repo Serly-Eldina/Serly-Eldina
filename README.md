@@ -11,10 +11,6 @@
 Welcome to my GitHub profile! I'm passionate about UI/UX Designer, Artificial Inteligent, Natural Language Processing, and Web Development. Here, you can explore my projects, research work, and experiments.
 
 ## 🌸 GitHub Stats & Activity
-
-<div align="center">
-## 🌸 GitHub Stats & Activity
-
 <div align="center">
 
 <!-- Stats Card -->
@@ -34,6 +30,7 @@ Welcome to my GitHub profile! I'm passionate about UI/UX Designer, Artificial In
 
 </div>
 
+<br>
 
 <div align="center">
 
@@ -41,6 +38,7 @@ Welcome to my GitHub profile! I'm passionate about UI/UX Designer, Artificial In
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serly-Eldina&theme=tokyo-night-pink&hide_border=true&area=true" width="90%"/>
 
 </div>
+
 
 <br/>
 
