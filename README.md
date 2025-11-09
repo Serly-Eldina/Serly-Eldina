@@ -220,7 +220,7 @@ Welcome to my GitHub profile! I'm passionate about UI/UX Designer, Artificial In
 
 **FLORIA Plant Monitoring**  
 <sub>Web monitoring</sub><br/>
-<code>React · Node.js · Firebase</code>
+<code>React · Node.js · Javascript</code>
 
 </td>
 <td align="center">
@@ -235,7 +235,7 @@ Welcome to my GitHub profile! I'm passionate about UI/UX Designer, Artificial In
 <tr>
 <td align="center">
 
-**Java Game Engine **  
+**Java Game Engine**  
 <sub>Game Engine </sub><br/>
 <code>Java</code>
 
