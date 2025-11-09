@@ -13,16 +13,27 @@ Welcome to my GitHub profile! I'm passionate about UI/UX Designer, Artificial In
 ## 🌸 GitHub Stats & Activity
 
 <div align="center">
+## 🌸 GitHub Stats & Activity
 
-<!-- 3 Stats in one row (compact, no border, aesthetic) -->
+<div align="center">
+
+<!-- Stats Card -->
 <img height="140" src="https://github-readme-stats.vercel.app/api?username=Serly-Eldina&show_icons=true&theme=rose_pine&hide_border=true" />
+
+<!-- Top Languages -->
 <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serly-Eldina&layout=compact&theme=rose_pine&hide_border=true" />
 
 </div>
 
 <br/>
 
-<br/>
+<div align="center">
+
+<!-- Streak Stats (Matched Color Theme) -->
+<img height="140" src="https://streak-stats.demolab.com?user=Serly-Eldina&theme=rose_pine&hide_border=true" />
+
+</div>
+
 
 <div align="center">
 
@@ -50,6 +61,7 @@ Welcome to my GitHub profile! I'm passionate about UI/UX Designer, Artificial In
 
 <table>
 <tr>
+  
 <!-- Box 1 -->
 <td align="center" width="300">
   
@@ -283,5 +295,30 @@ Welcome to my GitHub profile! I'm passionate about UI/UX Designer, Artificial In
 
 
 ---
+
+<div align="center">
+
+<!-- Cute Pink Title Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FF8FB7&center=true&vCenter=true&width=520&lines=Trophies+🎀;My+Achievements+🌸" />
+
+</div>
+
+<div align="center">
+
+<!-- Pink Pastel Trophy (1 Row only, soft & clean) -->
+<img src="https://github-profile-trophy.vercel.app/?username=Serly-Eldina&theme=juicyfresh&no-frame=true&row=1&column=5&margin-w=15" />
+
+</div>
+
+<div align="center">
+
+<!-- Pink Curvy Divider -->
+<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100%" height="6px" />
+
+</div>
+
+---
+
+
 
 📫 *Feel free to reach out — I love connecting with collaborators and researchers!* ✨
