@@ -83,22 +83,68 @@ Welcome to my GitHub profile! I'm passionate about UI/UX Designer, Artificial In
 <!-- Box 3 -->
 <td align="center" width="300">
 
-💗 **Machine Learning & Data**  
+💗 **Machine Learning & Deep Learning**  
 <br/>
+
+<!-- NumPy -->
+<img src="https://img.shields.io/badge/NumPy-F9C7E6?style=for-the-badge&logo=numpy&logoColor=black" />
+
+<!-- Pandas -->
 <img src="https://img.shields.io/badge/Pandas-FFB6D9?style=for-the-badge&logo=pandas&logoColor=black" />
+
+<!-- Scikit-Learn -->
+<img src="https://img.shields.io/badge/Scikit--Learn-FDE2F3?style=for-the-badge&logo=scikitlearn&logoColor=black" />
+
+<!-- Matplotlib -->
 <img src="https://img.shields.io/badge/Matplotlib-F8D7F4?style=for-the-badge&logo=plotly&logoColor=black" />
 
+<!-- Seaborn -->
+<img src="https://img.shields.io/badge/Seaborn-F7C9EC?style=for-the-badge&logo=seaborn&logoColor=black" />
+
+<!-- PyTorch -->
+<img src="https://img.shields.io/badge/PyTorch-FFC4DD?style=for-the-badge&logo=pytorch&logoColor=black" />
+
+<!-- Keras -->
+<img src="https://img.shields.io/badge/Keras-FAD4E7?style=for-the-badge&logo=keras&logoColor=black" />
+
+<!-- Statsmodels (ANOVA + Statistik) -->
+<img src="https://img.shields.io/badge/Statsmodels-FDE6F3?style=for-the-badge&logo=python&logoColor=black" />
+
+<!-- SciPy -->
+<img src="https://img.shields.io/badge/SciPy-FACCE8?style=for-the-badge&logo=scipy&logoColor=black" />
+
 </td>
+
 
 <!-- Box 4 -->
 <td align="center" width="300">
 
 🎨 **Design & Creative**  
-<br/>
-<img src="https://skillicons.dev/icons?i=figma&theme=light" height="45"/>
+<br/><br/>
+
+<!-- Figma -->
+<img src="https://img.shields.io/badge/Figma-F7B3D4?style=for-the-badge&logo=figma&logoColor=black" />
+
+<!-- Canva -->
 <img src="https://img.shields.io/badge/Canva-FF8FB7?style=for-the-badge&logo=canva&logoColor=white" />
 
+<!-- Adobe Lightroom -->
+<img src="https://img.shields.io/badge/Lightroom-9AC7FF?style=for-the-badge&logo=adobelightroom&logoColor=black" />
+
+<!-- PicsArt -->
+<img src="https://img.shields.io/badge/PicsArt-FCC9E5?style=for-the-badge&logo=picsart&logoColor=black" />
+
+<!-- CapCut -->
+<img src="https://img.shields.io/badge/CapCut-F9D5EC?style=for-the-badge&logo=capcut&logoColor=black" />
+
+<!-- Wattpad -->
+<img src="https://img.shields.io/badge/Wattpad-FEC9A7?style=for-the-badge&logo=wattpad&logoColor=black" />
+
+<!-- Webtoon -->
+<img src="https://img.shields.io/badge/Webtoon-C8F7C5?style=for-the-badge&logo=webtoon&logoColor=black" />
+
 </td>
+
 </tr>
 </table>
 
