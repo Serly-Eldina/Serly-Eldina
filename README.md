@@ -176,7 +176,7 @@ Welcome to my GitHub profile! I'm passionate about UI/UX Designer, Artificial In
 • 🏅 <b>Achieved BNSP Certified National Standard Product Packaging Design</b>  
 • 🌐 <b>Infinite Learning Certified Web Development</b>  
 • 🤖 <b>IBM Certified AI & Python Essentials</b>  
-• 🎤 <b>Speaker UI/UX at Developer Festival — ± 900 participants in the audience</b>
+• 🎤 <b>Speaker UI/UX at Developer Festival — ± 900 participants in the audience</b>          
 • 🎭 <b>-+7 years teaching cultural dance to students elementary school</b>  
 • 🌱 <b>Learning Artificial Intelligence</b> & <b>NLP</b>  
 • 🧠 <b>Love building things that blend <b>data + creativity</b>  
