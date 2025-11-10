@@ -365,4 +365,4 @@ Welcome to my GitHub profile! I'm passionate about UI/UX Designer, Artificial In
 
 
 
-📫 *Feel free to reach out — I love connecting with collaborators and researchers!* ✨
+📫 *Feel free to reach out — I love connecting with collaborators and researchers! * ✨
