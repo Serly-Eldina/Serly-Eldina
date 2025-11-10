@@ -173,7 +173,7 @@ Welcome to my GitHub profile! I'm passionate about UI/UX Designer, Artificial In
 <td width="600" align="left" style="background:#FFE6F2; border-radius:12px; padding:18px;">
 
 • 🎨 <b>UI/UX Design Enthusiast</b>  
-• 🏅 <b>Certified BSNP National Product Design</b>  
+• 🏅 <b>Achieved BNSP Certified National Standard Product Packaging Design</b>  
 • 🌐 <b>Infinite Learning Certified Web Development</b>  
 • 🤖 <b>IBM Certified AI & Python Essentials</b>  
 • 🎤 <b>Speaker UI/UX at Developer Festival</b> — ± 900 participants  
